@@ -55,7 +55,7 @@ Neste caso, copie os dois arquivos desta pasta para o diretório raiz do seu pro
 
 ```
 docker-compose build
-docker-compose run android_build
+docker-compose run slave_java
 ```
 
 ---  
