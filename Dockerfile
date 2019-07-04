@@ -1,6 +1,6 @@
-FROM macielbombonato/docker-builder:latest
+FROM ricardodestro/docker-builder:latest
 
-LABEL maintainer "Maciel Escudero Bombonato <maciel.bombonato@gmail.com>"
+LABEL maintainer "Ricardo Destro <ricardo.destro@gmail.com>"
 
 WORKDIR /
 
